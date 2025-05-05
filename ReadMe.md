@@ -10,7 +10,7 @@ This project is the coursework (a) for the COMP3065 course, implementing the con
 
 - NumPy
 
-- Tkinter (the standard GUI library for Python)
+- Tkinter 
 
 - PIL (Pillow)
 
@@ -36,7 +36,8 @@ This project is the coursework (a) for the COMP3065 course, implementing the con
 
 - **Apply Crop**  
 
-  Click the **"Apply Crop"** button to confirm the crop.![image](./md3.png)
+  Click the **"Apply Crop"** button to confirm the crop.
+  ![image](./md3.png)
 
 - **Reset Image**  
      Click the **"Reset"** button to restore the image to its original state.
